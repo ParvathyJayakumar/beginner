@@ -1,4 +1,3 @@
--
 # Bharath Scout and Guide Wing - School Website
 
 ## Project Overview  
